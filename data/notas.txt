@@ -1,0 +1,9 @@
+Biologia     7.3
+Matematicas  4.1
+Fisica       6.5
+Lengua       7.7
+Historia     3.5
+Filosofia    8.0
+Geografia    6.1
+Quimica      2.8
+Ingles       9.2

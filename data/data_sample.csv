@@ -1,0 +1,21 @@
+COPYRIGHT: Antonio Delgado Peris
+Sample text data file
+
+nombre  fecha   concepto   gasto
+# This is a comment
+juan    2021-01-25    libros      100
+juan    2021-02-03    libros       50
+juan    2021-06-14    licencias   500
+pedro   2021-08-20   material    600
+pedro   2021-05-22    viajes     1200
+pedro   2021-03-13    viajes      400
+pedro   2021-04-11    dietas     1000
+maria   2021-08-20    licencias   300
+maria   2021-10-16    viajes      600
+juan    2020-01-25    licencias   500
+juan    2020-02-03    libros      150
+juan    2020-06-14    viajes      250
+pedro   2020-08-20    material    800
+pedro   2020-05-22    viajes      440
+maria   2020-03-13    dietas      200
+juan    2020-04-11    licencias   500
