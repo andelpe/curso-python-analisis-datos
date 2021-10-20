@@ -1,1 +1,5 @@
-*checkpoint*
+.ipynb_checkpoints
+.pyc
+__pycache__
+.cache
+EXTRA/
