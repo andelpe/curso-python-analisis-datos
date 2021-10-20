@@ -80,7 +80,7 @@ el uso de Jupyterlab aquí: https://jupyterlab.readthedocs.io/
 Si es posible, una instalación de Jupyterlab local es seguramente más cómoda: 
 no se depende de la red, y los cambios permanecen en el equipo propio.
 
-- Requisitos previos: además de Python 3, se requiere instalar las siguientes librerías: numpy, pandas, scipy, scikit-learn, statsmodels, matplotlib y seaborn.
+- Requisitos previos: además de Python 3, se requiere instalar las siguientes librerías: numpy pandas scipy scikit-learn statsmodels matplotlib ipympl seaborn
 
 - En primer lugar, debemos descargar el repositorio completo del curso de GitHub, y descomprimirlo en el directorio que nos interese.
 
