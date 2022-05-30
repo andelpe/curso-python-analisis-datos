@@ -51,7 +51,7 @@ Los temas (y _notebooks_) en los que está estructurado el curso son los siguien
 6. Visualización (gráficos) con Python
 7. Análisis de datos exploratorio (EDA) y pre-procesado de datos
 8. Manipulación y análisis de datos avanzada con Pandas
-9. Análisis estadístico y aprendizaje automático en Pandas
+9. Análisis estadístico y aprendizaje automático en Python
 
 
 ### Ejercicios
