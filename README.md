@@ -49,7 +49,7 @@ Los temas (y _notebooks_) en los que está estructurado el curso son los siguien
 4. Fundamentos de NumPy
 5. Fundamentos de Pandas
 6. Visualización (gráficos) con Python
-7. Análisis de datos exploratorio (EDA) y pre-procesado de datos
+7. Análisis exploratorio (EDA) y pre-procesado de datos
 8. Manipulación y análisis de datos avanzada con Pandas
 9. Análisis estadístico y aprendizaje automático en Python
 
