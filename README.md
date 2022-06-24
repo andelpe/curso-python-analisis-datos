@@ -3,9 +3,9 @@
 <font size=4>
     
 Curso de formación interna, CIEMAT. <br/>
-Madrid, Octubre de 2021
+Madrid, junio de 2022
 
-Antonio Delgado Peris y Cristina Labajo Villaverde
+Antonio Delgado Peris (Cristina Labajo Villaverde)
 </font>
 
 https://github.com/andelpe/curso-analisis-datos-python/
