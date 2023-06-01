@@ -6,3 +6,5 @@ statsmodels
 matplotlib
 ipympl
 seaborn
+polars
+dask[complete]

@@ -3,7 +3,7 @@
 <font size=4>
     
 Curso de formación interna, CIEMAT. <br/>
-Madrid, junio de 2022
+Madrid, junio de 2023
 
 Antonio Delgado Peris (Cristina Labajo Villaverde)
 </font>
